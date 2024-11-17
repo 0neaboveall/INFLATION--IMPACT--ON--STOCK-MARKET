@@ -33,10 +33,6 @@ This project analyzes the impact of inflation on stock market trends, focusing o
 
 ## Repository Structure
 
-
-## Usage
-
-1. Clone the repository:
    ```bash
    git clone https://github.com/0neaboveall/INFLATION--IMPACT--ON--STOCK-MARKET.git
    cd INFLATION--IMPACT--ON--STOCK-MARKET
